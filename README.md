@@ -15,7 +15,8 @@ A POSIX-compliant, zero-dependencies shell utility for manipulating
 - **Compare** two versions
 - **Diff** to identify the most significant difference between two versions
 - **Validate** version strings against the semver 2.x spec
-- \*\*Cod
+- **Tested** with nearly 100% functional coverage
+- **POSIX** compliant, runs anywhere
 
 Can be combined with `git` pre-commit hooks to guarantee correct versioning.
 
