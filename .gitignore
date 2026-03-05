@@ -1,0 +1,6 @@
+# OS Garbage
+*.DS_Store
+Thumbs.db
+
+# Project
+coverage
